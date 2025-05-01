@@ -9,13 +9,6 @@ This project involves creating a single-page Curriculum Vitae (CV) using only HT
 - Open Graph (OG) tags for social media sharing  
 - Inclusion of a favicon  
 
-visit my project 
-
-
-
-https://fathir2.github.io/CV-project/
-
-
 ## Project Requirements
 
 ✅ **Semantic HTML**  
@@ -75,3 +68,7 @@ In future projects, you will learn how to style this HTML structure using CSS to
 ## 📌 Conclusion
 
 This project provides a solid understanding of how to create a single-page CV using HTML, apply basic SEO principles, and prepare the webpage for future styling. By completing this project, you are well-prepared to move on to more advanced web development topics.
+
+visit my project 
+
+https://fathir2.github.io/CV-project/
