@@ -69,6 +69,7 @@ In future projects, you will learn how to style this HTML structure using CSS to
 
 This project provides a solid understanding of how to create a single-page CV using HTML, apply basic SEO principles, and prepare the webpage for future styling. By completing this project, you are well-prepared to move on to more advanced web development topics.
 
-visit my project 
+## 🔗 Project URL
 
-https://fathir2.github.io/CV-project/
+[View Live Project](https://fathir2.github.io/CV-project/)
+
